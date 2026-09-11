@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\PorteSortie 1.cs" />
     <Compile Include="Assets\Scripts\TestRobot 1.cs" />
+    <Compile Include="Assets\Scripts\Collecteur 1.cs" />
     <Compile Include="Assets\Scripts\MouvementRobot 1.cs" />
     <Compile Include="Assets\Scripts\ZoneInterdite 1.cs" />
   </ItemGroup>
