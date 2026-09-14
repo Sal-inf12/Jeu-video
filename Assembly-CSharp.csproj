@@ -65,6 +65,8 @@
     <Compile Include="Assets\EnMouve.cs" />
     <Compile Include="Assets\Scripts\TestRobot 1.cs" />
     <Compile Include="Assets\Scripts\Collecteur 1.cs" />
+    <Compile Include="Assets\Scripts\EffetParallaxe.cs" />
+    <Compile Include="Assets\Scripts\EffetDegatsJoueur.cs" />
     <Compile Include="Assets\Scripts\MouvementRobot 1.cs" />
     <Compile Include="Assets\Scripts\ZoneInterdite 1.cs" />
   </ItemGroup>
